@@ -1,2 +1,2 @@
 # Portfolio2
-A single webpage portfolio project showcasing skills and competencies.
+A static portfolio website made using html5 and CSS3.
